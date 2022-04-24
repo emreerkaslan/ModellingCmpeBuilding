@@ -7,4 +7,4 @@ This project is managed under SWE599 Project Course of Software Engineering Prog
 
 For detailed information check the wiki pages or contact via emre.erkaslan@gmail.com
 
-[North Campus](https://github.com/emreerkaslan/ModellingCmpeBuilding/blob/main/Test/Images/intro_cover.png?raw=true)
+![North Campus](https://github.com/emreerkaslan/ModellingCmpeBuilding/blob/main/Test/Images/intro_cover.png?raw=true)
