@@ -6,3 +6,5 @@ Main motivation behind the project is providing a virtual environment for simula
 This project is managed under SWE599 Project Course of Software Engineering Program with the guidance of Asst. Prof. Birkan Yılmaz.
 
 For detailed information check the wiki pages or contact via emre.erkaslan@gmail.com
+
+![North Campus](https://github.com/emreerkaslan/ModellingCmpeBuilding/blob/main/Test/Images/intro_cover.png?raw=true)
