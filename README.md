@@ -5,9 +5,9 @@ Main motivation behind the project is providing a virtual environment for simula
 
 This project is managed under SWE599 Project Course of Software Engineering Program with the guidance of Asst. Prof. Birkan Yılmaz.
 
-Main Features: Drone Controls, Minimap, Bottom Camera, Photographing, Route Planning, 3D Model of Bogazici University North Campus
+**Main Features:** Drone Controls, Minimap, Bottom Camera, Photographing, Route Planning, 3D Model of Bogazici University North Campus
 
-Stack: Blender, Unreal Engine
+**Stack:** Blender, Unreal Engine
 
 For detailed information check the wiki pages or contact via emre.erkaslan@gmail.com
 
