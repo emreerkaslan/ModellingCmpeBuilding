@@ -1,7 +1,7 @@
 # Modeling a drone with its camera view and the CMPE building with its surrounding in Unreal Engine 
 Project aims to model Computer Engineering Building of Boğaziçi University in north campus and its surroundings with a drone with its own camera view.
 
-Main motivation behind the project is providing a virtual environment for simulation.
+Main motivation behind the project is providing a virtual environment for simulation. Users can control the drone and also assign a route by selecting points in minimap which is patrolled by the drone upon assignment.
 
 This project is managed under SWE599 Project Course of Software Engineering Program with the guidance of Asst. Prof. Birkan Yılmaz.
 
